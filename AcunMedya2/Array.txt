@@ -1,0 +1,4 @@
+﻿   Dizi (Array), aynı türden birden fazla değişkeni saklamak için kullanılan veri yapısıdır.
+   Örneğin;
+   
+   int[] sayilar = {10, 20, 30, 40, 50};
